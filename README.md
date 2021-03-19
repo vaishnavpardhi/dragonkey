@@ -12,7 +12,7 @@ The tools it installs:-
 -  **[John the Ripper](https://github.com/openwall/john)**
 -  **[Search-That-Hash](https://github.com/HashPals/Search-That-Hash)**
 -  **[Name-That-Hash](https://github.com/HashPals/Name-That-Hash)**
--  **[Cyphey](https://github.com/Ciphey/Ciphey)**
+-  **[Ciphey](https://github.com/Ciphey/Ciphey)**
 -  **[Hashid](https://github.com/psypanda/hashID)**
 -  **[Hash-identifier](https://github.com/blackploit/hash-identifier)**
 
@@ -34,7 +34,7 @@ https://colab.research.google.com/github/vaishnavpardhi/colabsth/blob/main/Colab
 - Fast hash searching with Name-that-Hash.
 - Advanced John use like zip2john also available.
 - New better tools like nth,sth.
-- Encryption breaking easy with Cyphey.
+- Encryption breaking easy with Ciphey.
 - Pick the tool you like.
 
 ## 😃 Inspired from
