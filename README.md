@@ -20,7 +20,7 @@ The tools it installs:-
 
 ## 📖 Usage
 - Open the following link which will open copy of **Dragonkey.ipynb** in your Google Colab
-https://colab.research.google.com/github/vaishnavpardhi/colabsth/blob/main/Colabsth.ipynb
+https://colab.research.google.com/github/vaishnavpardhi/dragonkey/blob/main/Dragonkey.ipynb
 - In Google colab click on **Runtime** tab,then **Change runtime type** and select **Hardware accelerator** to GPU.
 - Open your Google Drive and create a directory with name **dragonkey** ,you can put your hash file there.
 - Get back to your Google colab,click on **Runtime** tab and select **Run all**.
