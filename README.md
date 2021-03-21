@@ -25,7 +25,7 @@ https://colab.research.google.com/github/vaishnavpardhi/dragonkey/blob/main/Drag
 - Open your Google Drive and create a directory with name **dragonkey** ,you can put your hash file there.
 - Get back to your Google colab,click on **Runtime** tab and select **Run all**.
 -  In the first cell,when asked for **authorization code** make sure to click link there,authenticate with your Google account and fill the code.
-- The default wordlist **dragonkey** uses is **rockyou.txt** in **offline mode**,but you can upload your custom wordlist in **dragonkey** directory of Google Drive.
+- The default wordlist **dragonkey** uses is **rockyou.txt** ,but you can upload your custom wordlist in **dragonkey** directory of Google Drive.
 - Pick the **tool** you require and edit **commands** on cell accordingly.
 - Some tool **usage** are mentioned as **comments** please do **read** them.
 - The tool **hash-identifier** in the last cell is by **default** commented,please follow the instruction there to run it.
